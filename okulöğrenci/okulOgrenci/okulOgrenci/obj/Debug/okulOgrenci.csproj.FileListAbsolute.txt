@@ -1,0 +1,12 @@
+C:\Users\Monster\Desktop\okulöğrenci\okulOgrenci\okulOgrenci\bin\Debug\okulOgrenci.exe.config
+C:\Users\Monster\Desktop\okulöğrenci\okulOgrenci\okulOgrenci\bin\Debug\okulOgrenci.exe
+C:\Users\Monster\Desktop\okulöğrenci\okulOgrenci\okulOgrenci\bin\Debug\okulOgrenci.pdb
+C:\Users\Monster\Desktop\okulöğrenci\okulOgrenci\okulOgrenci\obj\Debug\okulOgrenci.csproj.AssemblyReference.cache
+C:\Users\Monster\Desktop\okulöğrenci\okulOgrenci\okulOgrenci\obj\Debug\okulOgrenci.csproj.SuggestedBindingRedirects.cache
+C:\Users\Monster\Desktop\okulöğrenci\okulOgrenci\okulOgrenci\obj\Debug\okulOgrenci.Form1.resources
+C:\Users\Monster\Desktop\okulöğrenci\okulOgrenci\okulOgrenci\obj\Debug\okulOgrenci.Properties.Resources.resources
+C:\Users\Monster\Desktop\okulöğrenci\okulOgrenci\okulOgrenci\obj\Debug\okulOgrenci.csproj.GenerateResource.cache
+C:\Users\Monster\Desktop\okulöğrenci\okulOgrenci\okulOgrenci\obj\Debug\okulOgrenci.csproj.CoreCompileInputs.cache
+C:\Users\Monster\Desktop\okulöğrenci\okulOgrenci\okulOgrenci\obj\Debug\okulOgrenci.exe
+C:\Users\Monster\Desktop\okulöğrenci\okulOgrenci\okulOgrenci\obj\Debug\okulOgrenci.pdb
+C:\Users\Monster\Desktop\okulöğrenci\okulOgrenci\okulOgrenci\obj\Debug\okulOgrenci.EgekurumOzel.resources
